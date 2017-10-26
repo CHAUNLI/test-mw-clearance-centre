@@ -11,3 +11,5 @@ apt:
   packages:
     - google-chrome-stable
     - google-chrome-beta
+
+script: ng test --single-run
